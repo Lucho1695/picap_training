@@ -1,24 +1,3 @@
-# README
+# Ejercicio inicial de bienvenida
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hola, hemos preparado una introducción inicial a Rails para que puedas familiarizarte con el framework y MongoDB como base de datos. En el repositorio hay un archivo PDF introduccion.pdf donde podras encontrar todas las especificaciones del ejercicio que se realizará inicialmente.
