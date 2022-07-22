@@ -1,3 +1,14 @@
+production:
+  clients:
+    default:
+      uri: mongodb+srv://picap_training:yFd6jBdldfkLtRgL@picaptraining.lla3w.mongodb.net/picap_training?retryWrites=true
+      options:
+        max_pool_size: 10
+        heartbeat_frequency: 1
+        write:
+          w: 1
+        read:
+          mode: "primary"
 development:
   clients:
     default:
