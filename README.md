@@ -5,9 +5,9 @@ Hola, hemos preparado una introducción inicial a Rails para que puedas familiar
 
 
 Proyecto realizado con:
-> ** ruby 2.7.2 **
-> ** rails 5.2.8.1 **
-> ** mongodb **
+> ruby 2.7.2 <br />
+> rails 5.2.8.1 <br />
+> mongodb <br />
 
 
 Primeros pasos para arrancar el proyecto
@@ -16,4 +16,4 @@ export PIBOX_TOKEN=token_para_ejecutar
 rails s
 
 
-> ** Nota: ** En el documento Picap_Training.pdf se encuentra el token que se utilizo para las pruebas en esta app leer pagina 11.
+> Nota: En el documento Picap_Training.pdf se encuentra el token que se utilizo para las pruebas en esta app leer pagina 11.
